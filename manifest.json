@@ -1,18 +1,18 @@
 {
-    "name": "vu-title-menu-bar",
-    "description" : "Vu Title Menu Bar",
-    "keywords"    : ["plugin", "vu", "agence"],
+    "name": "Logo-title-menu-bar",
+    "description" : "Logo Title Menu Bar",
+    "keywords"    : ["plugin", "logo", "Customisation"],
     "authors" : [
         {
-            "name"     : "Nicolas Le GOFF",
-            "homepage" : "https://vu.alchemyasp.com/",
-            "email"    : "legoff@alchemy.fr"
+            "name"     : "Dev team Alchemy",
+            "homepage" : "https://www.phraseanet.com/",
+            "email"    : "dev.team@alchemy.fr"
         }
     ],
-    "homepage" : "https://vu.alchemyasp.com/",
+    "homepage" : "https://www.phraseanet.com",
     "license"     : "MIT",
-    "version"     : "0.1",
+    "version"     : "0.2",
     "minimum-phraseanet-version": "3.8",
-    "maximum-phraseanet-version": "4.1",
+    "maximum-phraseanet-version": "3.9",
     "twig-paths": ["views"]
 }
